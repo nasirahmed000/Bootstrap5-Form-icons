@@ -1,0 +1,36 @@
+.bi-airplane-fill{
+    font-size: 100px;
+    color:rgb(134, 194, 23);
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    color: teal;
+    padding: 20px;
+    font-weight: 700;
+}
+.bi-messenger{
+    font-size: 100px;
+    color:rgb(182, 23, 169);
+    justify-content: center;
+}
+.bi-linkedin{
+    font-size: 100px;
+    color:rgb(23, 34, 182);
+    justify-content: center;
+}
+.bi-image{
+    font-size: 100px;
+    color:rgb(182, 95, 23);
+    justify-content: center;
+}
+.bi-info-circle-fill{
+    font-size: 100px;
+    color:rgb(23, 182, 84);
+    justify-content: center;
+}
+.bi-grid-3x3-gap{
+    font-size: 100px;
+    color:rgb(23, 182, 84);
+    justify-content: center;
+}
